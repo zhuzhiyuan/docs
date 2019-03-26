@@ -1,5 +1,8 @@
 <nav role="navigation" aria-label="Main navigation">
   <ul class="navigation-list">
+      <li class="navigation-list-item">
+          <a href="/" class="navigation-list-link">网站首页</a>
+      </li>
     {% assign pages_list = site.html_pages | sort:"nav_order" %}
     {% for node in pages_list %}
       {% unless node.nav_exclude %}

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 首页
+title: 文档首页
 nav_order: 1
-description: "首页"
+description: "文档首页"
 permalink: /
 ---
