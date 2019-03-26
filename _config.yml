@@ -16,7 +16,7 @@
 title: 我的文档
 email: ly_zzy@126.com
 description: "我的文档"
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "/document" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zhuzhiyuan
 permalink: pretty
