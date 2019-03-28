@@ -14,3 +14,4 @@ nav_order: 1
 |部署|git-pages|
 |静态网站生成器|Jekyll|
 |评论系统|Valine/Gitment/Disqus|
+|Markdown TO PPT|https://github.com/hakimel/reveal.js|
