@@ -24,3 +24,4 @@ nav_order: 1
 |Windows Icon制作工具|Axialis IconWorkshop Icon|
 |Windows exe图表修改工具|Resource Hacker|
 |Mac 程序打包|[查看网址](http://www.macx.cn/thread-2099005-1-1.html)|
+|windows office 激活工具|KEU KMS Activator|
